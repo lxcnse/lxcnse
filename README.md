@@ -1,4 +1,4 @@
-<h1 align="center">lxcense</h1>
+<h1 align="center">lxcnse</h1>
 <h3 align="center">CRACOW</h3>
 
 ### 👨‍💻About me
