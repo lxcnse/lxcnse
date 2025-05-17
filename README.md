@@ -3,7 +3,7 @@
 
 ### 👨‍💻About me
 - 📚 Currently studying **Applied Mathematics** at Cracow University of Technology.
-- 🧠 Currently learning **data analysis**.
+- 🧠 Currently learning **Machine Learning Algorithms**.
 - 🔍 Exploring of **data science**, **artificial intelligence**, and **cybersecurity**.
 - 💻 Always learning new coding skills, especially in **Python**.
 
